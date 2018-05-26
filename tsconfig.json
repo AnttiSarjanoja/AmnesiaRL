@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outFile": "./Amnesia.js",
+        "target": "es6",
+        "strictNullChecks": true
+    },
+    "files": [
+        "App.ts"
+    ]
+}
