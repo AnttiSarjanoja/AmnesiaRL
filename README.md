@@ -1,6 +1,6 @@
 # AmnesiaRL
 RL with room-based map generation and memory loss features. Most of the code lies atm. on manipulating 2d-arrays for room generation. [ROT.js](http://ondras.github.io/rot.js/hp/) is used atm. for UI, FOV calculations and RNG.
-![alt text](https://github.com/AnttiSarjanoja/AmnesiaRL/AmnesiaRL.gif "Current gameplay")
+![alt text](../raw/master/AmnesiaRL.gif "Current gameplay")
 
 ### Current features
 Just a demo implementing some core features:
